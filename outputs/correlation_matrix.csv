@@ -1,0 +1,6 @@
+,temperature_c,humidity_pct,wind_speed_kmh,precipitation_mm,cloud_cover_pct
+temperature_c,1.0,-0.875,-0.064,-0.035,-0.016
+humidity_pct,-0.875,1.0,0.047,0.065,0.053
+wind_speed_kmh,-0.064,0.047,1.0,0.006,0.023
+precipitation_mm,-0.035,0.065,0.006,1.0,0.65
+cloud_cover_pct,-0.016,0.053,0.023,0.65,1.0

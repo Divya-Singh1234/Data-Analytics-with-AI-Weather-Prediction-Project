@@ -1,0 +1,6 @@
+column,outlier_count,pct
+temperature_c,0,0.0
+humidity_pct,0,0.0
+wind_speed_kmh,6,0.6
+precipitation_mm,62,6.2
+cloud_cover_pct,12,1.2
